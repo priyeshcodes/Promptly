@@ -61,9 +61,9 @@ go run main.go search golang // basically a Grep
 go run main.go tui //just press <Enter> and see the magic itself
 
 ### Coming Soon!
-A full enhanced Frontend
-Colored Output
-Task Tagging
+# A full enhanced Frontend
+# Colored Output
+# Task Tagging
 
 ### 🪪 License
 This project is open-source under the MIT License.

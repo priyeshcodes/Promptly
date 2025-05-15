@@ -65,6 +65,6 @@ A full enhanced Frontend
 Colored Output
 Task Tagging
 
-🪪 License
+### 🪪 License
 This project is open-source under the MIT License.
 
